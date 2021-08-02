@@ -7,8 +7,6 @@ BACKEND
 
 L'installation de NodeJS, Express, Sequelize et Mysql est requise sur votre ordinateur.
 
-Installer les dépendences depuis /backend avec npm install
-
 Installation de la base de données Entrez: - npm i sequelize - sequelize init
 
 Dans le dossier backend modifer le mot de passe dans config/config.json
